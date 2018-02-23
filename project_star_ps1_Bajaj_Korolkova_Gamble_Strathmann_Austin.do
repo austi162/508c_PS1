@@ -60,7 +60,7 @@ ttest cltypek, by(blackwhite)
 ttest cltypek, by(sesk) 
 
 ********************************************************************************
-**                                   P3                                       **
+**                                   P3                                       11 
 ********************************************************************************
 //conditional summary statistics to determine differences within test types//
 sum treadssk if cltypek == 1
